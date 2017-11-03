@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTScrollViewManager.m \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTScrollViewManager.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/developer/Documents/rn/redux4ways/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/developer/Documents/rn/redux4ways/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/developer/Documents/rn/redux4ways/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTView.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/developer/Documents/rn/redux4ways/node_modules/react-native/React/Modules/RCTUIManager.h
